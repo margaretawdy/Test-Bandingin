@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "898419650395",
+    "firebase_url": "https://test-bandingin.firebaseio.com",
+    "project_id": "test-bandingin",
+    "storage_bucket": "test-bandingin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898419650395:android:9cb077079c579a53",
+        "android_client_info": {
+          "package_name": "com.example.testbandingin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898419650395-nb477qs3qr6u2je80no06l1mvbpng1cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testbandingin",
+            "certificate_hash": "df56527b2808c51aa3a69808722d22c189168d54"
+          }
+        },
+        {
+          "client_id": "898419650395-ks5bnfs0fopo2ivblk2np68l8rv4f4ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClWkJ8a-kItAf8xItP1sCwrAMZ7B8nLCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898419650395-ks5bnfs0fopo2ivblk2np68l8rv4f4ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
